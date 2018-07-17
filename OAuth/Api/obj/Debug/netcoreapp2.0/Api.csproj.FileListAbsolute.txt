@@ -1,0 +1,11 @@
+G:\项目18\Wexin\OAuth\Api\bin\Debug\netcoreapp2.0\Api.deps.json
+G:\项目18\Wexin\OAuth\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.json
+G:\项目18\Wexin\OAuth\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.dev.json
+G:\项目18\Wexin\OAuth\Api\bin\Debug\netcoreapp2.0\Api.dll
+G:\项目18\Wexin\OAuth\Api\obj\Debug\netcoreapp2.0\Api.csprojAssemblyReference.cache
+G:\项目18\Wexin\OAuth\Api\obj\Debug\netcoreapp2.0\Api.csproj.CoreCompileInputs.cache
+G:\项目18\Wexin\OAuth\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfoInputs.cache
+G:\项目18\Wexin\OAuth\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfo.cs
+G:\项目18\Wexin\OAuth\Api\bin\Debug\netcoreapp2.0\Api.pdb
+G:\项目18\Wexin\OAuth\Api\obj\Debug\netcoreapp2.0\Api.dll
+G:\项目18\Wexin\OAuth\Api\obj\Debug\netcoreapp2.0\Api.pdb
