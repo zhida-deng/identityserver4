@@ -12565,11 +12565,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\项目18\\Wexin\\OAuth\\OAuth\\OAuth.csproj",
+      "projectUniqueName": "G:\\项目18\\identityserver\\OAuth\\OAuth\\OAuth.csproj",
       "projectName": "OAuth",
-      "projectPath": "G:\\项目18\\Wexin\\OAuth\\OAuth\\OAuth.csproj",
+      "projectPath": "G:\\项目18\\identityserver\\OAuth\\OAuth\\OAuth.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "G:\\项目18\\Wexin\\OAuth\\OAuth\\obj\\",
+      "outputPath": "G:\\项目18\\identityserver\\OAuth\\OAuth\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -32,6 +32,14 @@ namespace WXApi
              .AddInMemoryClients(Config.GetClients())
              .AddResourceOwnerValidator<ResourceOwnerPasswordValidator>()
              .AddProfileService<ProfileService>();
+            services.AddAuthentication("Bearer").AddJwtBearer(options =>
+            {
+                //options.Authority = "http://localhost:5000";
+                options.RequireHttpsMetadata = false;
+                options.TokenValidationParameters.ClockSkew = TimeSpan.FromSeconds(0);
+                //options.ApiName = "api1";
+            });
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

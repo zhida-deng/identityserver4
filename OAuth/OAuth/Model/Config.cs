@@ -36,6 +36,7 @@ namespace WXApi.Model
                new Client(){
                    ClientId="client",//指定clientid
                    AllowedGrantTypes=GrantTypes.ResourceOwnerPasswordAndClientCredentials,//授权模式
+                   AccessTokenLifetime=5,//token 过期时间
                    ClientSecrets={
                        new Secret("secrect".Sha256())
                    },
